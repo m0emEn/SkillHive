@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+#root,
+body,
+html {
+  background-color: #f9fbff;
+}
+@layer utilities {
+  @media (max-width: 824px) {
+    .custom-cols-2 {
+      grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+      place-items: center;
+    }
+  }
+  @media (max-width: 544px) {
+    .custom-cols-1 {
+      grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+    }
+  }
+}

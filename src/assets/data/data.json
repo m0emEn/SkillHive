@@ -1,0 +1,66 @@
+{
+  "courses": [
+    {
+      "title": "Figma master class",
+      "category": "UI Design",
+      "lessons": 28,
+      "duration": "6h:30min",
+      "rating": 4.6,
+      "favorite": false,
+      "image": "https://i.ibb.co/pjCnsqNk/image1.png"
+    },
+    {
+      "title": "Web design for beginners",
+      "category": "UX Design",
+      "lessons": 28,
+      "duration": "8h:30min",
+      "rating": 4.9,
+      "favorite": false,
+      "image": "https://i.ibb.co/DHYTYWbX/image2.png"
+    },
+    {
+      "title": "Figma master class",
+      "category": "UI Design",
+      "lessons": 28,
+      "duration": "6h:30min",
+      "rating": 4.6,
+      "favorite": false,
+      "image": "https://i.ibb.co/JRcTbHD1/image3.png"
+    },
+    {
+      "title": "Web design for beginners",
+      "category": "UX Design",
+      "lessons": 28,
+      "duration": "8h:30min",
+      "rating": 4.9,
+      "favorite": false,
+      "image": "https://i.ibb.co/NdX03bzY/image4.png"
+    }
+  ],
+  "documents": [
+    {
+      "title": "React JS: A Step-by-Step Guide to Mastering the Top Web Development Library",
+      "author": "Tim Simon",
+      "rating": 4.9,
+      "favorite": false
+    },
+    {
+      "title": "Mastering Node.js Web Development: Go on a comprehensive journey from the fundamentals...",
+      "Author": "Adam Freeman",
+      "rating": 4.9,
+      "favorite": false
+    },
+    {
+      "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and...",
+      "Author": "Aurélien Géron",
+      "rating": 4.9,
+      "favorite": false
+    },
+    {
+      "title": "React JS: A Step-by-Step Guide to Mastering the Top Web Development Library",
+      "Author": "Adam Freeman",
+      "rating": 4.9,
+      "favorite": false
+    }
+  ]
+}
